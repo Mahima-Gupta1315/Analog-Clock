@@ -84,7 +84,7 @@ body
 	position: absolute;
 	width:8px ;
 	height:80px ;
-	background:blue ;
+	background: blue;
 	z-index:10 ;
 	border-radius:6px 6px 0 0 ;
 }
@@ -104,7 +104,7 @@ body
 	position: absolute;
 	width:2px ;
 	height:150px ;
-	background:#fff ;
+	background: red ;
 	z-index:12 ;
 	border-radius:6px 6px 0 0 ;
 }
